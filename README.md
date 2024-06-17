@@ -1,5 +1,5 @@
 # Projeto Service Control 
- <h2 class="title-2">APLICATIVO DE GERENCIAMNETO</h2>
+ <h2 class="title-2">APLICATIVO DE GERENCIAMENTO</h2>
      <h3>
         - Agendamento de serviços de manutenção e reparação de veículos.  <br />
         - Acompanhamento em tempo real do status da manutenção do veículo.  <br />
