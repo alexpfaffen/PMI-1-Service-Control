@@ -12,12 +12,14 @@
 - Perda de oportunidades de venda de serviços adicionais durante a manutenção dos veículos.
 - Riscos legais e responsabilização da oficina em casos de danos, roubos ou extravios de veículos esquecidos
 
+
 🙂 Nicho:
 - Oficinas mecânicas
 
 - Prestadores de serviço
 
 - Manutenção de equipamentos
+
 
 🎁 Proposta de Valor: 
 - Gerenciamneto dos veiculos em manutenção, garantindo agilidade da informação, transparência em tempo real.
@@ -27,8 +29,9 @@
 - Acreditamos que o investimento em serviços de qualidade resulta em economia a longo prazo, evitando reparos futuros e prolongando a vida útil dos veículos. Priorizamos a satisfação do cliente, trabalhando com eficiência, transparência e atendimento personalizado.
 
 - Buscamos oferecer aos nossos clientes uma experiência de qualidade e valor agregado.
+
   
-🧑‍💻👩‍💻 Equipe: Alex
+🧑‍💻👩‍💻 Equipe: Alex Pfaffenzeller
 
 🛠️ Recursos/Tecnologias Utilizados:
 -------------------
